@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @harysreza
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning JavaScript, React JS
+- 🌱 I’m currently learning HTML, CSS, JavaScript, and React JS
 - 📫 How to reach me harysreza21@gmail.com
 
 <!---
